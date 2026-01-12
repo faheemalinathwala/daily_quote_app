@@ -24,7 +24,7 @@ and persists favorites across sessions.
 UI was generated using Stitch (Google AI Design Tool).
 
 📌 Design Reference:
-- (Paste Stitch link OR attach screenshots here)
+- (https://stitch.withgoogle.com/projects/2263880882363066749?pli=1)
 
 ## AI Coding Approach
 This project was intentionally built using AI tools to improve speed and code quality.
@@ -40,7 +40,6 @@ This project was intentionally built using AI tools to improve speed and code qu
 - Used ChatGPT to scaffold provider logic and API integration
 - Debugged layout overflows, network image issues, and state handling using AI
 - Refactored UI into reusable widgets for maintainability
-
 ## Setup Instructions
 ```bash
 flutter pub get
